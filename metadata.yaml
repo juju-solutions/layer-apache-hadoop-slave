@@ -6,3 +6,4 @@ description: >
 
   This charm manages both the storage node (DataNode) for HDFS and the
   compute node (NodeManager) for Yarn.
+series: ['xenial', 'trusty']
